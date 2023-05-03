@@ -4,9 +4,15 @@
 
 ##### Structure:
 
-Coding Jam: 20 mins to code a basic component (Create a form and card use Tailwind documentation).
+##### Coding Jam
+
+20 mins to code a basic component (Create a form and card use Tailwind documentation).
 
  - Tailwind Documentation: https://tailwindcss.com/docs/installation
+
+ ##### Design Jam
+
+ 60 mins to complete the design challenge as a team.
 
 ##### Scenario: 
 
