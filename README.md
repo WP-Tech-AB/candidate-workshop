@@ -2,10 +2,11 @@
 
 ### Design Workshop 
 
-#### Structure:
+##### Structure:
 
 Coding Jam: 20 mins to code a basic component (Create a form and card use Tailwind documentation).
 
+ - Tailwind Documentation: https://tailwindcss.com/docs/installation
 
 ##### Scenario: 
 
@@ -21,4 +22,4 @@ Mobile first design
 
 Our users need the capability to switch into different organizations in the dashboard screen after they’ve signed in. Create a UI that visualizes that flow. 
 
- - Tailwind Documentation: https://tailwindcss.com/docs/installation
+
