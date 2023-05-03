@@ -23,3 +23,11 @@ Mobile first design
 Our users need the capability to switch into different organizations in the dashboard screen after they’ve signed in. Create a UI that visualizes that flow. 
 
 
+##### Installation
+
+````
+yarn install
+yarn dev
+````
+
+This will open up the URL for the app automatically.
