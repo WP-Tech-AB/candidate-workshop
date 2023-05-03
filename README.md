@@ -6,7 +6,7 @@
 
 ##### Coding Jam
 
-20 to 30 mins to code a very basic and simple component (Create a form and card use Tailwind documentation).
+10 to 30 mins to code a very basic and simple component (Create a form and card use Tailwind documentation).
 
  - Tailwind Documentation: https://tailwindcss.com/docs/installation
 
