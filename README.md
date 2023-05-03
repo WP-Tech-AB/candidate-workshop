@@ -6,13 +6,13 @@
 
 ##### Coding Jam
 
-20 mins to code a basic component (Create a form and card use Tailwind documentation).
+20 to 30 mins to code a very basic and simple component (Create a form and card use Tailwind documentation).
 
  - Tailwind Documentation: https://tailwindcss.com/docs/installation
 
- ##### Design Jam
+##### Design Jam
 
- 60 mins to complete the design challenge as a team.
+60 to 70 mins to complete the design challenge as a team.
 
 ##### Scenario: 
 
