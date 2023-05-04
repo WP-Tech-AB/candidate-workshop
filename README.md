@@ -67,7 +67,7 @@ Treat everything above as a business plan presented to you from the product owne
 
 Branding refers to the process of creating a consistent and recognizable visual identity for a company or product across all touchpoints. This includes the design of the logo, colour scheme, typography, and overall aesthetic, as well as the tone and messaging used in all communications.
 
-### Create a branding for the proposed solution. 
+### Create branding for the proposed solution. 
 
 ##### Branding
 1. Create a name and explain why.
