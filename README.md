@@ -6,7 +6,7 @@
 
 10 to 30 mins to code two very basic and simple components a form and card. Use Tailwind documentation.
 
- - Tailwind Documentation: https://tailwindcss.com/docs/installation##### 
+ - Tailwind Documentation: https://tailwindcss.com/ 
  
 ##### Installation
 
