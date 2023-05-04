@@ -26,7 +26,7 @@ An admin can manage multiple organizations in our app. An organization is a comp
 
 ###### Assignment: 
 
-Our users need the capability to switch into different organizations in the dashboard screen after they’ve signed in. Create a UI that visualizes that flow. 
+Our admins need the capability to switch into the different organizations they manage in a dashboard screen after they have signed in. Create a UI that visualizes that flow. 
 
 
 ##### Installation
