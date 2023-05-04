@@ -22,9 +22,9 @@ This will open up the URL for the app automatically.
 
 You have 5 days to complete the following assignment.
 
-##### UI/UX Branding Assignment
+#### UI/UX Branding Assignment
 
-###### The Background:
+#### The Background:
 
 In Sweden, if you own an apartment that belongs to a housing association, the association will have a board composed of tenants. This board is responsible for making bigger decisions on behalf of the other tenants and communicating those decisions to the  housing cooperative (land owners).
 
@@ -32,11 +32,11 @@ When the tenants request repairs, construction work,  enhancements and other bui
 
 Each tenant pays rent to the board, which is then responsible for managing the building and paying the housing cooperative (land owners). The housing cooperative is often a large company that owns many buildings, such as HSB.
 
-###### The Scenario:
+#### The Scenario:
 
 Birdie is a housing association with 40 tenants and 3 board members. HSB (housing cooperative) owns the physical land and building.
 
-###### The Problem: 
+#### The Problem: 
 
 - Birdies current processes are all manual!
   - For example
@@ -45,7 +45,7 @@ Birdie is a housing association with 40 tenants and 3 board members. HSB (housin
   - There is no common way for the tenants, the board members and HSB to communicate back and forth with each other effectively. 
   - There is no process for tenants to find out what rights or benefits they have (e.g. access to guest rooms)
 
-###### Solutions 
+#### Solutions 
 We propose a digital solution for Birdie that systematises communication processes within Birdie members (tenants), board members, and HSB thereby streamlining and enhancing the overall tenant experience.
 
 1. Through the tenant app, tenants will be able to easily report problems and request services offered by Birdie. 
@@ -58,7 +58,7 @@ We propose a digital solution for Birdie that systematises communication process
 
 5. The web app dashboard will allow board members to manage tenant requests and connections to other companies efficiently.
 
-###### Task
+#### Task
 Treat everything above as a business plan presented to you from the product owner.
 
 ### Note: You don't have to implement all of the solutions!. We would rather you focus on one or two of them and do them really well. The branding is the most important aspect for us. 
