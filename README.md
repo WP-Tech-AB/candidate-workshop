@@ -20,9 +20,9 @@ An admin can manage multiple organizations in our app. An organization is a comp
 
 ###### App Context:
 
-Admins are age 40+
-Users are age 25+
-Mobile first design
+- Admins are age 40+
+- Users are age 25+
+- Mobile first design
 
 ###### Assignment: 
 
