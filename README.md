@@ -18,7 +18,7 @@ yarn dev
 This will open up the URL for the app automatically.
 
 
-### Take Home - Design Jam
+### Take Home - Branding Design Project
 
 You have 5 days to complete the following assignment.
 
